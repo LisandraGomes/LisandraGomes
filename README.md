@@ -6,7 +6,7 @@
    </br>
    👩‍💻 - Trabalho Atual : Desenvolvedor .Net I
    </br>
-   🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação | 📜 - Realizar Certificação Scrum | 📖 - Iniciar formação técnica em Carreira Desenvolvedor Frontend Angular </br>
+   🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação | 📜 - Realizar Certificação Scrum | 📖 - MBA em gestão de projetos </br>
 
 <div style="display: inline_block"><br>             
 🤹‍♀️ - Habilidades Técnicas: </br>
