@@ -1,45 +1,53 @@
 ## Olá, meu nome é Lisandra B. Gomes! // Hi, my name is Lisandra B. Gomes!
 
-   🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas // 🎓 - Graduated : Systems Analysis and Development
+   🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas 
+   <h2>🎓 - Graduated : Systems Analysis and Development</h2>
    </br>
-   📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core // Technical Specialization in .NET and Asp.Net
+   📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core
+   <h2>📚 -Technical Specialization in .NET and Asp.Net</h2>
    </br>
-   👩‍💻 - Trabalho Atual : Desenvolvedor .Net II // Naming at work : Development .Net II and Angular
+   👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
+   <h2>👩‍💻 -Naming at work : Development .Net II and Angular</h2>
    </br>
    🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação | 📜 - Certificação Scrum </br>
+   <h2>🚀 - Next Step to be taken : 🧩 - MBA | 📜 - Certification Scrum</h2>
 
 <div style="display: inline_block"><br>             
 🤹‍♀️ - Habilidades Técnicas: </br>
-  <img align="center" alt="Skill-Csharp" height="30" width="40" name="C#"
+  <img align="center" alt="C#" height="30" width="40" name="C#"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Git"
+  <img align="center" alt="GitHub" height="30" width="40" name="Git"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Sql Server"
+   <img align="center" alt="GitLab" height="30" width="40" name="GitLab"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"/>
+  <img align="center" alt="SqlServer" height="30" width="40" name="Sql Server"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name=".Net and Asp.Net"
+  <img align="center" alt=".Net" height="30" width="40" name=".Net and Asp.Net"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-  <img  align="center" alt="Skill-GitHub" height="30" width="40" name=".Net Core and Asp.Net Core"
+  <img  align="center" alt=".Net Core" height="30" width="40" name=".Net Core and Asp.Net Core"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Azure"
+  <img align="center" alt="Azure" height="30" width="40" name="Azure"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Oracle PL/Sql"
+  <img align="center" alt="PL Sql" height="30" width="40" name="Oracle PL/Sql"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Docker"
+  <img align="center" alt="Docker" height="30" width="40" name="Docker"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" alt="Skill-GitHub" height="30" width="40" name="Jenkins"
+   <img align="center" alt="Jenkins" height="30" width="40" name="Jenkins"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+   <h5>C#, GitHub, GitLab, Sql Server, .Net, Asp.Net Core, .Net Core, Azure, PL Sql, Docker, Jenkins</h5>
 </div>
 
 </br>
 
 <div>
 🛠 - Ferramentas agile utilizadas: //Agile tools: </br>
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Jira"
+  <img align="center" alt="Jira" height="30" width="40" name="Jira"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img align="center" alt="Skill-GitHub" height="30" width="40" name="Trello"
+  <img align="center" alt="Trello" height="30" width="40" name="Trello"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />    
-   <img align="center" alt="Skill-GitHub" height="30" width="40" name="Azure DevOps"
+   <img align="center" alt="Azure DevOps" height="30" width="40" name="Azure DevOps"
       src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg"/>
+   <h5>Jira, Azure DevOps, Trello</h5>
 </div>
 
   ##
