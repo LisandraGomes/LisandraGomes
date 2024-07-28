@@ -1,10 +1,12 @@
 # Olá, meu nome é Lisandra B. Gomes! Hi, my name is Lisandra B. Gomes!
 
-   ## 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas 
-   ### 🎓 - Graduated : Systems Analysis and Development
+   ### 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas 
+   <h5>🎓 - Graduated : Systems Analysis and Development</h5> 
 
-   ## 📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core
-   ### 📚 -Technical Specialization in .NET and Asp.Net
+   ### 📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core
+   <div style="margin-top: -10px;">
+     <h5>📚 - Technical Specialization in .NET and Asp.Net</h5>
+   </div> 
 
    ## 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
    ### 👩‍💻 -Naming at work : Development .Net II and Angular
