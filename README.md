@@ -27,7 +27,7 @@
   <img align="center" alt="Skill-GitHub" height="30" width="40" name="Docker"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="Skill-GitHub" height="30" width="40" name="Jenkins"
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 </br>
@@ -39,7 +39,7 @@
   <img align="center" alt="Skill-GitHub" height="30" width="40" name="Trello"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />    
    <img align="center" alt="Skill-GitHub" height="30" width="40" name="Azure DevOps"
-      src="[https://cdn.jsdelivr.net/npm/@azure/core-auth@1.7.2/dist/browser/index.min.js](https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg)"/>
+      src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg"/>
 </div>
 
   ##
