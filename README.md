@@ -27,7 +27,7 @@
   <img align="center" alt="Skill-GitHub" height="30" width="40" name="Docker"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
    <img align="center" alt="Skill-GitHub" height="30" width="40" name="Jenkins"
-    src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 </div>
 
 </br>
