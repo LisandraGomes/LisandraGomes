@@ -2,13 +2,13 @@
 
    ## 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas 
    ### 🎓 - Graduated : Systems Analysis and Development
-   </br>
+
    ## 📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core
    ### 📚 -Technical Specialization in .NET and Asp.Net
-   </br>
+
    ## 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
    ### 👩‍💻 -Naming at work : Development .Net II and Angular
-   </br>
+
    ## 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação | 📜 - Certificação Scrum </br>
    ### 🚀 - Next Step to be taken : 🧩 - MBA | 📜 - Certification Scrum
 
